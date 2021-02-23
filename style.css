@@ -1,0 +1,27 @@
+.scroll {
+    background-color: black;
+    padding: 50px;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    white-space: nowrap; 
+  }
+
+  .panel {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .btn {
+    border-radius: 8px;
+    background-color: rgb(168, 103, 228);
+    padding: 8px;
+    width: 50%;
+  }
+
+  .cards {
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+    margin: 30px;
+    display: inline-block;
+}
