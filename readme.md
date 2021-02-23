@@ -185,7 +185,7 @@ E crie um Media Query com as seguintes configurações:
 
 <p align="center"><img src="https://media.giphy.com/media/tIeCLkB8geYtW/giphy.gif"></p>
 
- <p align="center" ><a href="git@github.com:wend3ll-souza/scrollYSection.git" target="_blank"><img src="https://img.shields.io/static/v1?label=Deploy&message=Go_To_App&color=rgb(0,255,0)&style=for-the-badge&logo=ghost"></a></p>
+ <p align="center" ><a href="https://wend3ll-souza.github.io/scrollYSection/" target="_blank"><img src="https://img.shields.io/static/v1?label=Deploy&message=Go_To_App&color=rgb(0,255,0)&style=for-the-badge&logo=ghost"></a></p>
 
 ## Saiba Mais
 
