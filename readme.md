@@ -157,7 +157,7 @@ addEventListener('click', (event) => {
 <p align="center"><img src="./img/exampleResponsive.gif"></p>
 <br>
 
-### Sessão resposiva com Media Queries:
+### Sessão responsiva com Media Queries:
 
 A sessão `scrollSection` só terá Scroll Lateral e o Painel só será visivel em telas Menores de `500px` de largura
 
