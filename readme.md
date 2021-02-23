@@ -202,5 +202,7 @@ E crie um Media Query com as seguintes configurações:
 
 [map()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 
+[scrollBy()](https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollBy)
+
 
 
