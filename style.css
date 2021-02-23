@@ -25,3 +25,8 @@
     margin: 30px;
     display: inline-block;
 }
+
+.repoContainer {
+    display: flex;
+    justify-content: center;
+}
